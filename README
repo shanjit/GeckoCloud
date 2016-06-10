@@ -1,0 +1,49 @@
+Primary aim of the project - CloudGecko. 
+Future aim includes - Porting to several other board out there.
+
+
+todo
+=====
+1. Change the site titles.
+2. Google Oauth.
+3. Good landing pages. 
+4. Step by step introduction
+5. Put photos of your board. 
+6. Put in datasheets and board manuals ?
+7. remove example.js 
+8. file structure for compilation
+9. security ?
+
+Keyword
+========
+1. Friendly editor.
+2. Hassle free plug and play experience 
+3. Instant Setup 
+
+
+Resources
+=========
+
+http://www.easel.ly/create/?id=https://s3.amazonaws.com/easel.ly/all_easels/100571/final&key=pri
+
+http://stackoverflow.com/questions/15019607/autocompletion-for-ace-editor
+
+https://github.com/usablica/intro.js
+
+http://wavded.github.io/humane-js/
+
+http://sankartypo3.wordpress.com/2013/02/12/how-to-list-files-and-folders-using-nodejs/
+
+https://github.com/silexlabs/cloud-explorer
+
+https://www.npmjs.org/package/fs-extra
+
+http://blog.monitis.com/2011/07/09/6-node-js-recipes-working-with-the-file-system/
+
+http://tech.deepumohan.com/2013/09/javascript-ace-editor-positioning-bootstrap.html
+
+---
+
+
+
+http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local
